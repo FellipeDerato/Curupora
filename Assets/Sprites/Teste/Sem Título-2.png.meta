@@ -1,0 +1,2614 @@
+fileFormatVersion: 2
+guid: e20c0faa9e619a345b53df358b7d5605
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4295484500617177246
+    second: "Sem T\xEDtulo-2_0"
+  - first:
+      213: -7814223431320426808
+    second: "Sem T\xEDtulo-2_1"
+  - first:
+      213: -4866676413018144919
+    second: "Sem T\xEDtulo-2_2"
+  - first:
+      213: -2039360503434808336
+    second: "Sem T\xEDtulo-2_3"
+  - first:
+      213: 4671697016861180756
+    second: "Sem T\xEDtulo-2_4"
+  - first:
+      213: 9066155384125065229
+    second: "Sem T\xEDtulo-2_5"
+  - first:
+      213: 8318477938222632535
+    second: "Sem T\xEDtulo-2_6"
+  - first:
+      213: 8772993809006267347
+    second: "Sem T\xEDtulo-2_7"
+  - first:
+      213: 3420698954932752677
+    second: "Sem T\xEDtulo-2_8"
+  - first:
+      213: -4405861467122853386
+    second: "Sem T\xEDtulo-2_9"
+  - first:
+      213: 2175370917802677060
+    second: "Sem T\xEDtulo-2_10"
+  - first:
+      213: -2527126250787445865
+    second: "Sem T\xEDtulo-2_11"
+  - first:
+      213: 6697345509622741017
+    second: "Sem T\xEDtulo-2_12"
+  - first:
+      213: 2011297279232467837
+    second: "Sem T\xEDtulo-2_13"
+  - first:
+      213: 6806076708853350791
+    second: "Sem T\xEDtulo-2_14"
+  - first:
+      213: 6270466421061657839
+    second: "Sem T\xEDtulo-2_15"
+  - first:
+      213: -5615816036892051832
+    second: "Sem T\xEDtulo-2_16"
+  - first:
+      213: -2292099379341185805
+    second: "Sem T\xEDtulo-2_17"
+  - first:
+      213: 5205947332485757608
+    second: "Sem T\xEDtulo-2_18"
+  - first:
+      213: -6792916802430385093
+    second: "Sem T\xEDtulo-2_19"
+  - first:
+      213: 4830780470228545096
+    second: "Sem T\xEDtulo-2_20"
+  - first:
+      213: 1762378474054351739
+    second: "Sem T\xEDtulo-2_21"
+  - first:
+      213: 2637328020602206289
+    second: "Sem T\xEDtulo-2_22"
+  - first:
+      213: -3754372055104819378
+    second: "Sem T\xEDtulo-2_23"
+  - first:
+      213: 538028673341418042
+    second: "Sem T\xEDtulo-2_24"
+  - first:
+      213: -5495454935888563028
+    second: "Sem T\xEDtulo-2_25"
+  - first:
+      213: 5536944327081494920
+    second: "Sem T\xEDtulo-2_26"
+  - first:
+      213: -24357985310906466
+    second: "Sem T\xEDtulo-2_27"
+  - first:
+      213: -7652266913948054116
+    second: "Sem T\xEDtulo-2_28"
+  - first:
+      213: -1571953290367750412
+    second: "Sem T\xEDtulo-2_29"
+  - first:
+      213: -1882127706059047593
+    second: "Sem T\xEDtulo-2_30"
+  - first:
+      213: -3183177634991666816
+    second: "Sem T\xEDtulo-2_31"
+  - first:
+      213: 2573654000710478383
+    second: "Sem T\xEDtulo-2_32"
+  - first:
+      213: 8451522372726953614
+    second: "Sem T\xEDtulo-2_33"
+  - first:
+      213: -8369292689971526990
+    second: "Sem T\xEDtulo-2_34"
+  - first:
+      213: 3176106732733824713
+    second: "Sem T\xEDtulo-2_35"
+  - first:
+      213: 4223852919785378878
+    second: "Sem T\xEDtulo-2_36"
+  - first:
+      213: 5104438212360785177
+    second: "Sem T\xEDtulo-2_37"
+  - first:
+      213: 5421532051012129394
+    second: "Sem T\xEDtulo-2_38"
+  - first:
+      213: -3175637869967614022
+    second: "Sem T\xEDtulo-2_39"
+  - first:
+      213: 6239877052547550680
+    second: "Sem T\xEDtulo-2_40"
+  - first:
+      213: 7340903927280449380
+    second: "Sem T\xEDtulo-2_41"
+  - first:
+      213: 1336317190177989003
+    second: "Sem T\xEDtulo-2_42"
+  - first:
+      213: 2506787887300880510
+    second: "Sem T\xEDtulo-2_43"
+  - first:
+      213: 892248225448092605
+    second: "Sem T\xEDtulo-2_44"
+  - first:
+      213: 4772269300000890710
+    second: "Sem T\xEDtulo-2_45"
+  - first:
+      213: -1593967357012536865
+    second: "Sem T\xEDtulo-2_46"
+  - first:
+      213: 4450060171828455530
+    second: "Sem T\xEDtulo-2_47"
+  - first:
+      213: -3368755600078931388
+    second: "Sem T\xEDtulo-2_48"
+  - first:
+      213: 6002233127055769230
+    second: "Sem T\xEDtulo-2_49"
+  - first:
+      213: 5124177146626165159
+    second: "Sem T\xEDtulo-2_50"
+  - first:
+      213: 7213243708474794136
+    second: "Sem T\xEDtulo-2_51"
+  - first:
+      213: 7684293192031022550
+    second: "Sem T\xEDtulo-2_52"
+  - first:
+      213: 3753791241013016956
+    second: "Sem T\xEDtulo-2_53"
+  - first:
+      213: 2299584116584240400
+    second: "Sem T\xEDtulo-2_54"
+  - first:
+      213: 2710000743743047856
+    second: "Sem T\xEDtulo-2_55"
+  - first:
+      213: -8688753200212149098
+    second: "Sem T\xEDtulo-2_56"
+  - first:
+      213: -8959965732961997486
+    second: "Sem T\xEDtulo-2_57"
+  - first:
+      213: -4169980649943095486
+    second: "Sem T\xEDtulo-2_58"
+  - first:
+      213: 7199004350230567075
+    second: "Sem T\xEDtulo-2_59"
+  - first:
+      213: -6180072981975389044
+    second: "Sem T\xEDtulo-2_60"
+  - first:
+      213: -6765466296642426138
+    second: "Sem T\xEDtulo-2_61"
+  - first:
+      213: 2303592122724478670
+    second: "Sem T\xEDtulo-2_62"
+  - first:
+      213: -9135499241723674909
+    second: "Sem T\xEDtulo-2_63"
+  - first:
+      213: 3889265499760974356
+    second: "Sem T\xEDtulo-2_64"
+  - first:
+      213: -2079428720441726890
+    second: "Sem T\xEDtulo-2_65"
+  - first:
+      213: 7720331411915127930
+    second: "Sem T\xEDtulo-2_66"
+  - first:
+      213: 5146632906305852175
+    second: "Sem T\xEDtulo-2_67"
+  - first:
+      213: -2258953027293689433
+    second: "Sem T\xEDtulo-2_68"
+  - first:
+      213: -5027292252255238854
+    second: "Sem T\xEDtulo-2_69"
+  - first:
+      213: -889812192553002966
+    second: "Sem T\xEDtulo-2_70"
+  - first:
+      213: 8759415650068463689
+    second: "Sem T\xEDtulo-2_71"
+  - first:
+      213: 452789769968045788
+    second: "Sem T\xEDtulo-2_72"
+  - first:
+      213: -853025065475909578
+    second: "Sem T\xEDtulo-2_73"
+  - first:
+      213: -8134628882745617865
+    second: "Sem T\xEDtulo-2_74"
+  - first:
+      213: -3095664405628958223
+    second: "Sem T\xEDtulo-2_75"
+  - first:
+      213: 1374073764483955417
+    second: "Sem T\xEDtulo-2_76"
+  - first:
+      213: -2361622914606155805
+    second: "Sem T\xEDtulo-2_77"
+  - first:
+      213: 8924861131561868820
+    second: "Sem T\xEDtulo-2_78"
+  - first:
+      213: 1374656623322640724
+    second: "Sem T\xEDtulo-2_79"
+  - first:
+      213: -7612168763058164173
+    second: "Sem T\xEDtulo-2_80"
+  - first:
+      213: 2296157280070173117
+    second: "Sem T\xEDtulo-2_81"
+  - first:
+      213: 8885032621883891510
+    second: "Sem T\xEDtulo-2_82"
+  - first:
+      213: -261741999200075277
+    second: "Sem T\xEDtulo-2_83"
+  - first:
+      213: 4290991619003154836
+    second: "Sem T\xEDtulo-2_84"
+  - first:
+      213: 2693451873920281775
+    second: "Sem T\xEDtulo-2_85"
+  - first:
+      213: -1678986665881472018
+    second: "Sem T\xEDtulo-2_86"
+  - first:
+      213: -1488282651121382631
+    second: "Sem T\xEDtulo-2_87"
+  - first:
+      213: -5380013761322935894
+    second: "Sem T\xEDtulo-2_88"
+  - first:
+      213: 4624685387067934366
+    second: "Sem T\xEDtulo-2_89"
+  - first:
+      213: 7345003630068362447
+    second: "Sem T\xEDtulo-2_90"
+  - first:
+      213: 580740263964459353
+    second: "Sem T\xEDtulo-2_91"
+  - first:
+      213: 3650343666881472534
+    second: "Sem T\xEDtulo-2_92"
+  - first:
+      213: -8399674260548171561
+    second: "Sem T\xEDtulo-2_93"
+  - first:
+      213: 7551334132958547494
+    second: "Sem T\xEDtulo-2_94"
+  - first:
+      213: 1147919614991650350
+    second: "Sem T\xEDtulo-2_95"
+  - first:
+      213: 8571310579721664063
+    second: "Sem T\xEDtulo-2_96"
+  - first:
+      213: 7596236687702102954
+    second: "Sem T\xEDtulo-2_97"
+  - first:
+      213: -133052431987314560
+    second: "Sem T\xEDtulo-2_98"
+  - first:
+      213: -7005413555747392326
+    second: "Sem T\xEDtulo-2_99"
+  - first:
+      213: -5614431117350798239
+    second: "Sem T\xEDtulo-2_100"
+  - first:
+      213: 1885436424050757259
+    second: "Sem T\xEDtulo-2_101"
+  - first:
+      213: 1244290322945645893
+    second: "Sem T\xEDtulo-2_102"
+  - first:
+      213: -1364183904717447651
+    second: "Sem T\xEDtulo-2_103"
+  - first:
+      213: 7850604777982309039
+    second: "Sem T\xEDtulo-2_104"
+  - first:
+      213: 4690821519093066213
+    second: "Sem T\xEDtulo-2_105"
+  - first:
+      213: 2688430636032212184
+    second: "Sem T\xEDtulo-2_106"
+  - first:
+      213: -3415877686965583098
+    second: "Sem T\xEDtulo-2_107"
+  - first:
+      213: -1014924060503123006
+    second: "Sem T\xEDtulo-2_108"
+  - first:
+      213: 243244674346130061
+    second: "Sem T\xEDtulo-2_109"
+  - first:
+      213: 8148297210963687192
+    second: "Sem T\xEDtulo-2_110"
+  - first:
+      213: -5335216407030147807
+    second: "Sem T\xEDtulo-2_111"
+  - first:
+      213: -1519336532161590602
+    second: "Sem T\xEDtulo-2_112"
+  - first:
+      213: 2672501449115775736
+    second: "Sem T\xEDtulo-2_113"
+  - first:
+      213: -8129414336082352576
+    second: "Sem T\xEDtulo-2_114"
+  - first:
+      213: -4756761066870441163
+    second: "Sem T\xEDtulo-2_115"
+  - first:
+      213: 2341696804609245188
+    second: "Sem T\xEDtulo-2_116"
+  - first:
+      213: -6433001195027496088
+    second: "Sem T\xEDtulo-2_117"
+  - first:
+      213: 6489916057587230407
+    second: "Sem T\xEDtulo-2_118"
+  - first:
+      213: -3930687922741271049
+    second: "Sem T\xEDtulo-2_119"
+  - first:
+      213: -7664278233743646211
+    second: "Sem T\xEDtulo-2_120"
+  - first:
+      213: 4032405391336331115
+    second: "Sem T\xEDtulo-2_121"
+  - first:
+      213: -7455589534903995807
+    second: "Sem T\xEDtulo-2_122"
+  - first:
+      213: -610864258270987089
+    second: "Sem T\xEDtulo-2_123"
+  - first:
+      213: -8248921258405508991
+    second: "Sem T\xEDtulo-2_124"
+  - first:
+      213: 6081295273913391869
+    second: "Sem T\xEDtulo-2_125"
+  - first:
+      213: 4141649506112896521
+    second: "Sem T\xEDtulo-2_126"
+  - first:
+      213: 6301558530047008708
+    second: "Sem T\xEDtulo-2_127"
+  - first:
+      213: -5230018783368725094
+    second: "Sem T\xEDtulo-2_128"
+  - first:
+      213: -6886483390431541565
+    second: "Sem T\xEDtulo-2_129"
+  - first:
+      213: -2295736559433411393
+    second: "Sem T\xEDtulo-2_130"
+  - first:
+      213: 3720647231886221405
+    second: "Sem T\xEDtulo-2_131"
+  - first:
+      213: 3527932846001354347
+    second: "Sem T\xEDtulo-2_132"
+  - first:
+      213: -5372652598055986148
+    second: "Sem T\xEDtulo-2_133"
+  - first:
+      213: 4953952957156274402
+    second: "Sem T\xEDtulo-2_134"
+  - first:
+      213: 7287299638723329496
+    second: "Sem T\xEDtulo-2_135"
+  - first:
+      213: -5316299677607494651
+    second: "Sem T\xEDtulo-2_136"
+  - first:
+      213: -6412627975042207422
+    second: "Sem T\xEDtulo-2_137"
+  - first:
+      213: 3924793004188519475
+    second: "Sem T\xEDtulo-2_138"
+  - first:
+      213: -2571507222957470744
+    second: "Sem T\xEDtulo-2_139"
+  - first:
+      213: 312719166965594275
+    second: "Sem T\xEDtulo-2_140"
+  - first:
+      213: -4759645323856975044
+    second: "Sem T\xEDtulo-2_141"
+  - first:
+      213: 2060581936600991501
+    second: "Sem T\xEDtulo-2_142"
+  - first:
+      213: -5704031184191776226
+    second: "Sem T\xEDtulo-2_143"
+  - first:
+      213: -4212922246473538975
+    second: "Sem T\xEDtulo-2_144"
+  - first:
+      213: 4052440717458456193
+    second: "Sem T\xEDtulo-2_145"
+  - first:
+      213: 4622196170281012404
+    second: "Sem T\xEDtulo-2_146"
+  - first:
+      213: -2043853823887558431
+    second: "Sem T\xEDtulo-2_147"
+  - first:
+      213: 8630559830934787005
+    second: "Sem T\xEDtulo-2_148"
+  - first:
+      213: -5073432485932864877
+    second: "Sem T\xEDtulo-2_149"
+  - first:
+      213: 2814592588567013476
+    second: "Sem T\xEDtulo-2_150"
+  - first:
+      213: -5714224132069523244
+    second: "Sem T\xEDtulo-2_151"
+  - first:
+      213: 465684857434533334
+    second: "Sem T\xEDtulo-2_152"
+  - first:
+      213: -4758539369265635336
+    second: "Sem T\xEDtulo-2_153"
+  - first:
+      213: -1231966828999489626
+    second: "Sem T\xEDtulo-2_154"
+  - first:
+      213: 8200443523835929110
+    second: "Sem T\xEDtulo-2_155"
+  - first:
+      213: -8370802048985575382
+    second: "Sem T\xEDtulo-2_156"
+  - first:
+      213: 1674452115748931548
+    second: "Sem T\xEDtulo-2_157"
+  - first:
+      213: 1273726076402694656
+    second: "Sem T\xEDtulo-2_158"
+  - first:
+      213: 3306813870454919728
+    second: "Sem T\xEDtulo-2_159"
+  - first:
+      213: -7555328041987181610
+    second: "Sem T\xEDtulo-2_160"
+  - first:
+      213: -2571500678580277643
+    second: "Sem T\xEDtulo-2_161"
+  - first:
+      213: -7335939752523195698
+    second: "Sem T\xEDtulo-2_162"
+  - first:
+      213: 799842138848521688
+    second: "Sem T\xEDtulo-2_163"
+  - first:
+      213: 3405202388489879577
+    second: "Sem T\xEDtulo-2_164"
+  - first:
+      213: -6423035235489624151
+    second: "Sem T\xEDtulo-2_165"
+  - first:
+      213: 524972853000873808
+    second: "Sem T\xEDtulo-2_166"
+  - first:
+      213: 4961864625472460043
+    second: "Sem T\xEDtulo-2_167"
+  - first:
+      213: 5430337891114126022
+    second: "Sem T\xEDtulo-2_168"
+  - first:
+      213: 4470609607271042793
+    second: "Sem T\xEDtulo-2_169"
+  - first:
+      213: 1702915423200278361
+    second: "Sem T\xEDtulo-2_170"
+  - first:
+      213: 6423449131910097422
+    second: "Sem T\xEDtulo-2_171"
+  - first:
+      213: 7658333523226952497
+    second: "Sem T\xEDtulo-2_172"
+  - first:
+      213: 879387824298451394
+    second: "Sem T\xEDtulo-2_173"
+  - first:
+      213: -1975347530965391710
+    second: "Sem T\xEDtulo-2_174"
+  - first:
+      213: -2100456493617174639
+    second: "Sem T\xEDtulo-2_175"
+  - first:
+      213: 6184785165705829574
+    second: "Sem T\xEDtulo-2_176"
+  - first:
+      213: 2857811370045187285
+    second: "Sem T\xEDtulo-2_177"
+  - first:
+      213: 722620093824416869
+    second: "Sem T\xEDtulo-2_178"
+  - first:
+      213: -4981820285709419206
+    second: "Sem T\xEDtulo-2_179"
+  - first:
+      213: 5499276110244148084
+    second: "Sem T\xEDtulo-2_180"
+  - first:
+      213: -8736331627287307165
+    second: "Sem T\xEDtulo-2_181"
+  - first:
+      213: -6620183808441724688
+    second: "Sem T\xEDtulo-2_182"
+  - first:
+      213: 6443186989449310304
+    second: "Sem T\xEDtulo-2_183"
+  - first:
+      213: 2317434149525304838
+    second: "Sem T\xEDtulo-2_184"
+  - first:
+      213: 5685318158563885541
+    second: "Sem T\xEDtulo-2_185"
+  - first:
+      213: -450188225422173553
+    second: "Sem T\xEDtulo-2_186"
+  - first:
+      213: -4572827803692267048
+    second: "Sem T\xEDtulo-2_187"
+  - first:
+      213: -1386133738944116375
+    second: "Sem T\xEDtulo-2_188"
+  - first:
+      213: -4165825372901761808
+    second: "Sem T\xEDtulo-2_189"
+  - first:
+      213: 2711831967074070671
+    second: "Sem T\xEDtulo-2_190"
+  - first:
+      213: 8552041162203210434
+    second: "Sem T\xEDtulo-2_191"
+  - first:
+      213: -5436365783327680326
+    second: "Sem T\xEDtulo-2_192"
+  - first:
+      213: 5904735142638540941
+    second: "Sem T\xEDtulo-2_193"
+  - first:
+      213: -7231151215897402240
+    second: "Sem T\xEDtulo-2_194"
+  - first:
+      213: 5105251165173318954
+    second: "Sem T\xEDtulo-2_195"
+  - first:
+      213: 2913061233480704506
+    second: "Sem T\xEDtulo-2_196"
+  - first:
+      213: 1488144060558499878
+    second: "Sem T\xEDtulo-2_197"
+  - first:
+      213: 5500267088019972360
+    second: "Sem T\xEDtulo-2_198"
+  - first:
+      213: -4205916747304346367
+    second: "Sem T\xEDtulo-2_199"
+  - first:
+      213: -2984979435124968684
+    second: "Sem T\xEDtulo-2_200"
+  - first:
+      213: 975053256851771547
+    second: "Sem T\xEDtulo-2_201"
+  - first:
+      213: 3324736313330871515
+    second: "Sem T\xEDtulo-2_202"
+  - first:
+      213: -6679741976741871700
+    second: "Sem T\xEDtulo-2_203"
+  - first:
+      213: -4306436514036929084
+    second: "Sem T\xEDtulo-2_204"
+  - first:
+      213: -3570900822766357783
+    second: "Sem T\xEDtulo-2_205"
+  - first:
+      213: -1132691550031529244
+    second: "Sem T\xEDtulo-2_206"
+  - first:
+      213: 7047090967337460497
+    second: "Sem T\xEDtulo-2_207"
+  - first:
+      213: 4625468672315313198
+    second: "Sem T\xEDtulo-2_208"
+  - first:
+      213: 5548380925789228172
+    second: "Sem T\xEDtulo-2_209"
+  - first:
+      213: 6816545417924713554
+    second: "Sem T\xEDtulo-2_210"
+  - first:
+      213: -5682329714626365601
+    second: "Sem T\xEDtulo-2_211"
+  - first:
+      213: 1280499427397248830
+    second: "Sem T\xEDtulo-2_212"
+  - first:
+      213: -4153142481417245000
+    second: "Sem T\xEDtulo-2_213"
+  - first:
+      213: 503003199842454431
+    second: "Sem T\xEDtulo-2_214"
+  - first:
+      213: 5882162524467654379
+    second: "Sem T\xEDtulo-2_215"
+  - first:
+      213: 4288420634973812238
+    second: "Sem T\xEDtulo-2_216"
+  - first:
+      213: -6909077714019801839
+    second: "Sem T\xEDtulo-2_217"
+  - first:
+      213: 985043883599294085
+    second: "Sem T\xEDtulo-2_218"
+  - first:
+      213: 4989640015148544529
+    second: "Sem T\xEDtulo-2_219"
+  - first:
+      213: -2609624149561829331
+    second: "Sem T\xEDtulo-2_220"
+  - first:
+      213: -7910550090290377793
+    second: "Sem T\xEDtulo-2_221"
+  - first:
+      213: 5058331009434720946
+    second: "Sem T\xEDtulo-2_222"
+  - first:
+      213: 5773427169479838183
+    second: "Sem T\xEDtulo-2_223"
+  - first:
+      213: -3883605671660419049
+    second: "Sem T\xEDtulo-2_224"
+  - first:
+      213: 8933680475220556853
+    second: "Sem T\xEDtulo-2_225"
+  - first:
+      213: -3659189495377283695
+    second: "Sem T\xEDtulo-2_226"
+  - first:
+      213: -3605793999652661908
+    second: "Sem T\xEDtulo-2_227"
+  - first:
+      213: 564648705083669501
+    second: "Sem T\xEDtulo-2_228"
+  - first:
+      213: -6859874447489850800
+    second: "Sem T\xEDtulo-2_229"
+  - first:
+      213: 2232922518923914216
+    second: "Sem T\xEDtulo-2_230"
+  - first:
+      213: -8304501331856280447
+    second: "Sem T\xEDtulo-2_231"
+  - first:
+      213: 4035604707666434142
+    second: "Sem T\xEDtulo-2_232"
+  - first:
+      213: 3895581382681187848
+    second: "Sem T\xEDtulo-2_233"
+  - first:
+      213: 9197307437173097312
+    second: "Sem T\xEDtulo-2_234"
+  - first:
+      213: -3482469056018723368
+    second: "Sem T\xEDtulo-2_235"
+  - first:
+      213: 6145348507276952462
+    second: "Sem T\xEDtulo-2_236"
+  - first:
+      213: -6404863814406805388
+    second: "Sem T\xEDtulo-2_237"
+  - first:
+      213: -5060984983416796320
+    second: "Sem T\xEDtulo-2_238"
+  - first:
+      213: -839663655720252044
+    second: "Sem T\xEDtulo-2_239"
+  - first:
+      213: -4186646008484683433
+    second: "Sem T\xEDtulo-2_240"
+  - first:
+      213: -503793052578159974
+    second: "Sem T\xEDtulo-2_241"
+  - first:
+      213: 1650174410266150298
+    second: "Sem T\xEDtulo-2_242"
+  - first:
+      213: -66065041055453292
+    second: "Sem T\xEDtulo-2_243"
+  - first:
+      213: -6309628623498074889
+    second: "Sem T\xEDtulo-2_244"
+  - first:
+      213: -2166109192657873682
+    second: "Sem T\xEDtulo-2_245"
+  - first:
+      213: 6305215403953207740
+    second: "Sem T\xEDtulo-2_246"
+  - first:
+      213: 223091191981941841
+    second: "Sem T\xEDtulo-2_247"
+  - first:
+      213: -3696397519236545922
+    second: "Sem T\xEDtulo-2_248"
+  - first:
+      213: 4579765237309235856
+    second: "Sem T\xEDtulo-2_249"
+  - first:
+      213: 8271540660612088946
+    second: "Sem T\xEDtulo-2_250"
+  - first:
+      213: 2848685661356235200
+    second: "Sem T\xEDtulo-2_251"
+  - first:
+      213: -927242714910050010
+    second: "Sem T\xEDtulo-2_252"
+  - first:
+      213: 4110843325692760906
+    second: "Sem T\xEDtulo-2_253"
+  - first:
+      213: -1610871141213536236
+    second: "Sem T\xEDtulo-2_254"
+  - first:
+      213: 2609731901351163969
+    second: "Sem T\xEDtulo-2_255"
+  - first:
+      213: -8383884851334005779
+    second: "Sem T\xEDtulo-2_256"
+  - first:
+      213: 7017150239088571475
+    second: "Sem T\xEDtulo-2_257"
+  - first:
+      213: 4697104825702161007
+    second: "Sem T\xEDtulo-2_258"
+  - first:
+      213: -7535191622009474339
+    second: "Sem T\xEDtulo-2_259"
+  - first:
+      213: -3230463673652721936
+    second: "Sem T\xEDtulo-2_260"
+  - first:
+      213: -3024938393190694225
+    second: "Sem T\xEDtulo-2_261"
+  - first:
+      213: 7467994734048614003
+    second: "Sem T\xEDtulo-2_262"
+  - first:
+      213: -5923878471450233950
+    second: "Sem T\xEDtulo-2_263"
+  - first:
+      213: -4202981082219385895
+    second: "Sem T\xEDtulo-2_264"
+  - first:
+      213: 6983891725210978216
+    second: "Sem T\xEDtulo-2_265"
+  - first:
+      213: -4284634405841357649
+    second: "Sem T\xEDtulo-2_266"
+  - first:
+      213: 5514382144789317814
+    second: "Sem T\xEDtulo-2_267"
+  - first:
+      213: -3440652294416044687
+    second: "Sem T\xEDtulo-2_268"
+  - first:
+      213: 8472751633860549253
+    second: "Sem T\xEDtulo-2_269"
+  - first:
+      213: -2718158614403079876
+    second: "Sem T\xEDtulo-2_270"
+  - first:
+      213: 2236485380047334245
+    second: "Sem T\xEDtulo-2_271"
+  - first:
+      213: -1282224677682794998
+    second: "Sem T\xEDtulo-2_272"
+  - first:
+      213: 497295072736529240
+    second: "Sem T\xEDtulo-2_273"
+  - first:
+      213: -1804422509848664184
+    second: "Sem T\xEDtulo-2_274"
+  - first:
+      213: 5022369522301642248
+    second: "Sem T\xEDtulo-2_275"
+  - first:
+      213: 3343567020231283595
+    second: "Sem T\xEDtulo-2_276"
+  - first:
+      213: 93825153132653104
+    second: "Sem T\xEDtulo-2_277"
+  - first:
+      213: -4695133852908823237
+    second: "Sem T\xEDtulo-2_278"
+  - first:
+      213: 596925259820347187
+    second: "Sem T\xEDtulo-2_279"
+  - first:
+      213: -7333998366748054950
+    second: "Sem T\xEDtulo-2_280"
+  - first:
+      213: 2102160205161923715
+    second: "Sem T\xEDtulo-2_281"
+  - first:
+      213: 1005874195941472010
+    second: "Sem T\xEDtulo-2_282"
+  - first:
+      213: 6804425237979243740
+    second: "Sem T\xEDtulo-2_283"
+  - first:
+      213: -8272595670489596519
+    second: "Sem T\xEDtulo-2_284"
+  - first:
+      213: 5209114455801067799
+    second: "Sem T\xEDtulo-2_285"
+  - first:
+      213: 59563889825159436
+    second: "Sem T\xEDtulo-2_286"
+  - first:
+      213: 4038688747601103924
+    second: "Sem T\xEDtulo-2_287"
+  - first:
+      213: 4928877068632582200
+    second: "Sem T\xEDtulo-2_288"
+  - first:
+      213: 8045157304613210709
+    second: "Sem T\xEDtulo-2_289"
+  - first:
+      213: -5748106714852842133
+    second: "Sem T\xEDtulo-2_290"
+  - first:
+      213: -1414908111399056529
+    second: "Sem T\xEDtulo-2_291"
+  - first:
+      213: 3201671041946598641
+    second: "Sem T\xEDtulo-2_292"
+  - first:
+      213: 3601489667013733751
+    second: "Sem T\xEDtulo-2_293"
+  - first:
+      213: 8381053568815150486
+    second: "Sem T\xEDtulo-2_294"
+  - first:
+      213: 4593962980450847278
+    second: "Sem T\xEDtulo-2_295"
+  - first:
+      213: -1727178583632069520
+    second: "Sem T\xEDtulo-2_296"
+  - first:
+      213: 8018183601787896702
+    second: "Sem T\xEDtulo-2_297"
+  - first:
+      213: -6653885759260138755
+    second: "Sem T\xEDtulo-2_298"
+  - first:
+      213: 8841776587524166530
+    second: "Sem T\xEDtulo-2_299"
+  - first:
+      213: -2551898148735103803
+    second: "Sem T\xEDtulo-2_300"
+  - first:
+      213: -5381440989458856418
+    second: "Sem T\xEDtulo-2_301"
+  - first:
+      213: 864938583749633492
+    second: "Sem T\xEDtulo-2_302"
+  - first:
+      213: -7963341732086749152
+    second: "Sem T\xEDtulo-2_303"
+  - first:
+      213: 5032434750472517974
+    second: "Sem T\xEDtulo-2_304"
+  - first:
+      213: 494922008423141938
+    second: "Sem T\xEDtulo-2_305"
+  - first:
+      213: -5158223071710501092
+    second: "Sem T\xEDtulo-2_306"
+  - first:
+      213: 1633944512447527083
+    second: "Sem T\xEDtulo-2_307"
+  - first:
+      213: -6161647638028810319
+    second: "Sem T\xEDtulo-2_308"
+  - first:
+      213: 127364757931343430
+    second: "Sem T\xEDtulo-2_309"
+  - first:
+      213: -5264173385312059643
+    second: "Sem T\xEDtulo-2_310"
+  - first:
+      213: 2607617476765008238
+    second: "Sem T\xEDtulo-2_311"
+  - first:
+      213: -5598098141133378088
+    second: "Sem T\xEDtulo-2_312"
+  - first:
+      213: -1636418885551911262
+    second: "Sem T\xEDtulo-2_313"
+  - first:
+      213: 3076067374064362132
+    second: "Sem T\xEDtulo-2_314"
+  - first:
+      213: 1160906903132439983
+    second: "Sem T\xEDtulo-2_315"
+  - first:
+      213: -2912542596056728232
+    second: "Sem T\xEDtulo-2_316"
+  - first:
+      213: 3462011027575293107
+    second: "Sem T\xEDtulo-2_317"
+  - first:
+      213: 4451136191524046660
+    second: "Sem T\xEDtulo-2_318"
+  - first:
+      213: 7129843556217635507
+    second: "Sem T\xEDtulo-2_319"
+  - first:
+      213: 1655918418887220189
+    second: "Sem T\xEDtulo-2_320"
+  - first:
+      213: 1058520560614088659
+    second: "Sem T\xEDtulo-2_321"
+  - first:
+      213: 9125656265056147570
+    second: "Sem T\xEDtulo-2_322"
+  - first:
+      213: -6363338492078741095
+    second: "Sem T\xEDtulo-2_323"
+  - first:
+      213: -9159228295151474922
+    second: "Sem T\xEDtulo-2_324"
+  - first:
+      213: -8720037610528784520
+    second: "Sem T\xEDtulo-2_325"
+  - first:
+      213: 6522246743250165110
+    second: "Sem T\xEDtulo-2_326"
+  - first:
+      213: 373126142116384551
+    second: "Sem T\xEDtulo-2_327"
+  - first:
+      213: 6812631209161536227
+    second: "Sem T\xEDtulo-2_328"
+  - first:
+      213: -7891042134570935506
+    second: "Sem T\xEDtulo-2_329"
+  - first:
+      213: -5323622792615077889
+    second: "Sem T\xEDtulo-2_330"
+  - first:
+      213: -8384047778824975445
+    second: "Sem T\xEDtulo-2_331"
+  - first:
+      213: -6304878380382789171
+    second: "Sem T\xEDtulo-2_332"
+  - first:
+      213: 6433967876192669340
+    second: "Sem T\xEDtulo-2_333"
+  - first:
+      213: -2561089905886353305
+    second: "Sem T\xEDtulo-2_334"
+  - first:
+      213: 4889612705290844166
+    second: "Sem T\xEDtulo-2_335"
+  - first:
+      213: 6847241780381160796
+    second: "Sem T\xEDtulo-2_336"
+  - first:
+      213: 122665675911637634
+    second: "Sem T\xEDtulo-2_337"
+  - first:
+      213: 4212525855404460277
+    second: "Sem T\xEDtulo-2_338"
+  - first:
+      213: 613769195823549509
+    second: "Sem T\xEDtulo-2_339"
+  - first:
+      213: -5970289012911109671
+    second: "Sem T\xEDtulo-2_340"
+  - first:
+      213: 1155259329272101157
+    second: "Sem T\xEDtulo-2_341"
+  - first:
+      213: 4726774695767805270
+    second: "Sem T\xEDtulo-2_342"
+  - first:
+      213: -2044296046590897074
+    second: "Sem T\xEDtulo-2_343"
+  - first:
+      213: 8832722703962926090
+    second: "Sem T\xEDtulo-2_344"
+  - first:
+      213: -6293492397553303205
+    second: "Sem T\xEDtulo-2_345"
+  - first:
+      213: -5487356468952606594
+    second: "Sem T\xEDtulo-2_346"
+  - first:
+      213: 5793878278235742027
+    second: "Sem T\xEDtulo-2_347"
+  - first:
+      213: 1749822526997827292
+    second: "Sem T\xEDtulo-2_348"
+  - first:
+      213: -1787766839179710093
+    second: "Sem T\xEDtulo-2_349"
+  - first:
+      213: -6222945514529742854
+    second: "Sem T\xEDtulo-2_350"
+  - first:
+      213: -7986765767200888668
+    second: "Sem T\xEDtulo-2_351"
+  - first:
+      213: -5254864429604008912
+    second: "Sem T\xEDtulo-2_352"
+  - first:
+      213: -2674096908058530312
+    second: "Sem T\xEDtulo-2_353"
+  - first:
+      213: 2684318321307004290
+    second: "Sem T\xEDtulo-2_354"
+  - first:
+      213: 6538388056150238041
+    second: "Sem T\xEDtulo-2_355"
+  - first:
+      213: 590123564544147480
+    second: "Sem T\xEDtulo-2_356"
+  - first:
+      213: -8819574772869613962
+    second: "Sem T\xEDtulo-2_357"
+  - first:
+      213: -2518970965996922954
+    second: "Sem T\xEDtulo-2_358"
+  - first:
+      213: 463539206140447223
+    second: "Sem T\xEDtulo-2_359"
+  - first:
+      213: -2487564657753460703
+    second: "Sem T\xEDtulo-2_360"
+  - first:
+      213: -5468700256077759130
+    second: "Sem T\xEDtulo-2_361"
+  - first:
+      213: -635338509463321936
+    second: "Sem T\xEDtulo-2_362"
+  - first:
+      213: 3644823010494403469
+    second: "Sem T\xEDtulo-2_363"
+  - first:
+      213: 2162021327665749747
+    second: "Sem T\xEDtulo-2_364"
+  - first:
+      213: 7055682197933417088
+    second: "Sem T\xEDtulo-2_365"
+  - first:
+      213: 7525605256542127168
+    second: "Sem T\xEDtulo-2_366"
+  - first:
+      213: -1744845079605927378
+    second: "Sem T\xEDtulo-2_367"
+  - first:
+      213: -2477111208953732572
+    second: "Sem T\xEDtulo-2_368"
+  - first:
+      213: -5139166469779603839
+    second: "Sem T\xEDtulo-2_369"
+  - first:
+      213: -7788108262600912920
+    second: "Sem T\xEDtulo-2_370"
+  - first:
+      213: 5067097500948086989
+    second: "Sem T\xEDtulo-2_371"
+  - first:
+      213: 8356383149086765684
+    second: "Sem T\xEDtulo-2_372"
+  - first:
+      213: -4090447821567041896
+    second: "Sem T\xEDtulo-2_373"
+  - first:
+      213: -8185785372958583466
+    second: "Sem T\xEDtulo-2_374"
+  - first:
+      213: -351328657293861051
+    second: "Sem T\xEDtulo-2_375"
+  - first:
+      213: -1472001108570600710
+    second: "Sem T\xEDtulo-2_376"
+  - first:
+      213: 5353718176799487526
+    second: "Sem T\xEDtulo-2_377"
+  - first:
+      213: -3380988771460690026
+    second: "Sem T\xEDtulo-2_378"
+  - first:
+      213: -2033157782029800862
+    second: "Sem T\xEDtulo-2_379"
+  - first:
+      213: -6827690015283454262
+    second: "Sem T\xEDtulo-2_380"
+  - first:
+      213: -1033695910229421965
+    second: "Sem T\xEDtulo-2_381"
+  - first:
+      213: -6041020725977797641
+    second: "Sem T\xEDtulo-2_382"
+  - first:
+      213: -515533210578037407
+    second: "Sem T\xEDtulo-2_383"
+  - first:
+      213: -6646700054138801245
+    second: "Sem T\xEDtulo-2_384"
+  - first:
+      213: 9125783744082408433
+    second: "Sem T\xEDtulo-2_385"
+  - first:
+      213: -8462892647445438989
+    second: "Sem T\xEDtulo-2_386"
+  - first:
+      213: -4678106288652093467
+    second: "Sem T\xEDtulo-2_387"
+  - first:
+      213: -4222483589427963691
+    second: "Sem T\xEDtulo-2_388"
+  - first:
+      213: 8424260900851171027
+    second: "Sem T\xEDtulo-2_389"
+  - first:
+      213: 1997969648118042585
+    second: "Sem T\xEDtulo-2_390"
+  - first:
+      213: 6798154412527464674
+    second: "Sem T\xEDtulo-2_391"
+  - first:
+      213: 4529340881615629888
+    second: "Sem T\xEDtulo-2_392"
+  - first:
+      213: 1034876752986587983
+    second: "Sem T\xEDtulo-2_393"
+  - first:
+      213: 2509963835393664044
+    second: "Sem T\xEDtulo-2_394"
+  - first:
+      213: 4612063830823598763
+    second: "Sem T\xEDtulo-2_395"
+  - first:
+      213: -4146741067857216301
+    second: "Sem T\xEDtulo-2_396"
+  - first:
+      213: 7532462296998494297
+    second: "Sem T\xEDtulo-2_397"
+  - first:
+      213: 8241902115274173633
+    second: "Sem T\xEDtulo-2_398"
+  - first:
+      213: 5041998377890476621
+    second: "Sem T\xEDtulo-2_399"
+  - first:
+      213: -2524777534216208649
+    second: "Sem T\xEDtulo-2_400"
+  - first:
+      213: -8353370903968232761
+    second: "Sem T\xEDtulo-2_401"
+  - first:
+      213: 6761987729524484119
+    second: "Sem T\xEDtulo-2_402"
+  - first:
+      213: 7690256533504932311
+    second: "Sem T\xEDtulo-2_403"
+  - first:
+      213: -1555743749702341993
+    second: "Sem T\xEDtulo-2_404"
+  - first:
+      213: 5636349344574009902
+    second: "Sem T\xEDtulo-2_405"
+  - first:
+      213: -9187543164638950116
+    second: "Sem T\xEDtulo-2_406"
+  - first:
+      213: 3254460421951787577
+    second: "Sem T\xEDtulo-2_407"
+  - first:
+      213: -2924616977196622259
+    second: "Sem T\xEDtulo-2_408"
+  - first:
+      213: 5261682074739689559
+    second: "Sem T\xEDtulo-2_409"
+  - first:
+      213: -1089135806465200252
+    second: "Sem T\xEDtulo-2_410"
+  - first:
+      213: 4398556068897777774
+    second: "Sem T\xEDtulo-2_411"
+  - first:
+      213: -1886921896947577148
+    second: "Sem T\xEDtulo-2_412"
+  - first:
+      213: 613946864556542811
+    second: "Sem T\xEDtulo-2_413"
+  - first:
+      213: 5607189062569707554
+    second: "Sem T\xEDtulo-2_414"
+  - first:
+      213: -1566811839682383350
+    second: "Sem T\xEDtulo-2_415"
+  - first:
+      213: 1324366639013206082
+    second: "Sem T\xEDtulo-2_416"
+  - first:
+      213: -2837748427607334941
+    second: "Sem T\xEDtulo-2_417"
+  - first:
+      213: -1475083660377400041
+    second: "Sem T\xEDtulo-2_418"
+  - first:
+      213: 8929528957044720728
+    second: "Sem T\xEDtulo-2_419"
+  - first:
+      213: 7441609835112120374
+    second: "Sem T\xEDtulo-2_420"
+  - first:
+      213: -2995993260080595295
+    second: "Sem T\xEDtulo-2_421"
+  - first:
+      213: -4967386329583032147
+    second: "Sem T\xEDtulo-2_422"
+  - first:
+      213: -2810047505585797901
+    second: "Sem T\xEDtulo-2_423"
+  - first:
+      213: -4952047283850479442
+    second: "Sem T\xEDtulo-2_424"
+  - first:
+      213: 2814630562889115231
+    second: "Sem T\xEDtulo-2_425"
+  - first:
+      213: 859682558228467524
+    second: "Sem T\xEDtulo-2_426"
+  - first:
+      213: 2419627439360075602
+    second: "Sem T\xEDtulo-2_427"
+  - first:
+      213: 7475798667099386568
+    second: "Sem T\xEDtulo-2_428"
+  - first:
+      213: -3307449633819598232
+    second: "Sem T\xEDtulo-2_429"
+  - first:
+      213: 8774362805021735300
+    second: "Sem T\xEDtulo-2_430"
+  - first:
+      213: -3957160176869146921
+    second: "Sem T\xEDtulo-2_431"
+  - first:
+      213: 4583199505164353138
+    second: "Sem T\xEDtulo-2_432"
+  - first:
+      213: -4102099573138666563
+    second: "Sem T\xEDtulo-2_433"
+  - first:
+      213: 3730655002840569341
+    second: "Sem T\xEDtulo-2_434"
+  - first:
+      213: 7386622921985811119
+    second: "Sem T\xEDtulo-2_435"
+  - first:
+      213: -1098388001505487378
+    second: "Sem T\xEDtulo-2_436"
+  - first:
+      213: 932210258417216735
+    second: "Sem T\xEDtulo-2_437"
+  - first:
+      213: 7623693891024905127
+    second: "Sem T\xEDtulo-2_438"
+  - first:
+      213: 4391331671567760841
+    second: "Sem T\xEDtulo-2_439"
+  - first:
+      213: 4326328796310740687
+    second: "Sem T\xEDtulo-2_440"
+  - first:
+      213: -8445821644906659169
+    second: "Sem T\xEDtulo-2_441"
+  - first:
+      213: -7706844459407987711
+    second: "Sem T\xEDtulo-2_442"
+  - first:
+      213: 8964652887406885329
+    second: "Sem T\xEDtulo-2_443"
+  - first:
+      213: -4262868150825769886
+    second: "Sem T\xEDtulo-2_444"
+  - first:
+      213: 2030971514535185413
+    second: "Sem T\xEDtulo-2_445"
+  - first:
+      213: -2165348989434081784
+    second: "Sem T\xEDtulo-2_446"
+  - first:
+      213: -4091273934217117503
+    second: "Sem T\xEDtulo-2_447"
+  - first:
+      213: -7792602632454375167
+    second: "Sem T\xEDtulo-2_448"
+  - first:
+      213: 1322701596019001880
+    second: "Sem T\xEDtulo-2_449"
+  - first:
+      213: 8254591375909319065
+    second: "Sem T\xEDtulo-2_450"
+  - first:
+      213: 1403117485341931833
+    second: "Sem T\xEDtulo-2_451"
+  - first:
+      213: -3519524522812521797
+    second: "Sem T\xEDtulo-2_452"
+  - first:
+      213: -445089711445542224
+    second: "Sem T\xEDtulo-2_453"
+  - first:
+      213: 564332870904962164
+    second: "Sem T\xEDtulo-2_454"
+  - first:
+      213: -1522280086556628526
+    second: "Sem T\xEDtulo-2_455"
+  - first:
+      213: -4140250963660103162
+    second: "Sem T\xEDtulo-2_456"
+  - first:
+      213: 6765097662942838173
+    second: "Sem T\xEDtulo-2_457"
+  - first:
+      213: 3235003920342751449
+    second: "Sem T\xEDtulo-2_458"
+  - first:
+      213: -2260332510627449464
+    second: "Sem T\xEDtulo-2_459"
+  - first:
+      213: -4459202891507429581
+    second: "Sem T\xEDtulo-2_460"
+  - first:
+      213: 1088742926233600225
+    second: "Sem T\xEDtulo-2_461"
+  - first:
+      213: -1479144524326341517
+    second: "Sem T\xEDtulo-2_462"
+  - first:
+      213: 1251794032570401947
+    second: "Sem T\xEDtulo-2_463"
+  - first:
+      213: -7952491646066718223
+    second: "Sem T\xEDtulo-2_464"
+  - first:
+      213: -4338591032269957850
+    second: "Sem T\xEDtulo-2_465"
+  - first:
+      213: 5871691438285380002
+    second: "Sem T\xEDtulo-2_466"
+  - first:
+      213: 3617583351317115239
+    second: "Sem T\xEDtulo-2_467"
+  - first:
+      213: 3880956200624140520
+    second: "Sem T\xEDtulo-2_468"
+  - first:
+      213: 3925399176440379468
+    second: "Sem T\xEDtulo-2_469"
+  - first:
+      213: 6180040695326563591
+    second: "Sem T\xEDtulo-2_470"
+  - first:
+      213: -8578304552837920633
+    second: "Sem T\xEDtulo-2_471"
+  - first:
+      213: 9106531065641719962
+    second: "Sem T\xEDtulo-2_472"
+  - first:
+      213: 4478637028166431799
+    second: "Sem T\xEDtulo-2_473"
+  - first:
+      213: -2548908485775604963
+    second: "Sem T\xEDtulo-2_474"
+  - first:
+      213: -4319378732457260335
+    second: "Sem T\xEDtulo-2_475"
+  - first:
+      213: 1291030057351960845
+    second: "Sem T\xEDtulo-2_476"
+  - first:
+      213: 3824140106856150852
+    second: "Sem T\xEDtulo-2_477"
+  - first:
+      213: -4030042695510620804
+    second: "Sem T\xEDtulo-2_478"
+  - first:
+      213: 7897072726876903030
+    second: "Sem T\xEDtulo-2_479"
+  - first:
+      213: 7770037597190918715
+    second: "Sem T\xEDtulo-2_480"
+  - first:
+      213: -2490027270523183827
+    second: "Sem T\xEDtulo-2_481"
+  - first:
+      213: 7594191303703120218
+    second: "Sem T\xEDtulo-2_482"
+  - first:
+      213: -2172100694116071800
+    second: "Sem T\xEDtulo-2_483"
+  - first:
+      213: 5183786655860350851
+    second: "Sem T\xEDtulo-2_484"
+  - first:
+      213: 6613579769816597439
+    second: "Sem T\xEDtulo-2_485"
+  - first:
+      213: -7767882815990414656
+    second: "Sem T\xEDtulo-2_486"
+  - first:
+      213: 8541873437309746938
+    second: "Sem T\xEDtulo-2_487"
+  - first:
+      213: 2558903006562220296
+    second: "Sem T\xEDtulo-2_488"
+  - first:
+      213: 2803012103450830736
+    second: "Sem T\xEDtulo-2_489"
+  - first:
+      213: -8427748692664044753
+    second: "Sem T\xEDtulo-2_490"
+  - first:
+      213: -7036058323311894131
+    second: "Sem T\xEDtulo-2_491"
+  - first:
+      213: 5827720236505734183
+    second: "Sem T\xEDtulo-2_492"
+  - first:
+      213: 175014310251317417
+    second: "Sem T\xEDtulo-2_493"
+  - first:
+      213: 2289616677940995284
+    second: "Sem T\xEDtulo-2_494"
+  - first:
+      213: -5877122748903028021
+    second: "Sem T\xEDtulo-2_495"
+  - first:
+      213: 1225994107250217863
+    second: "Sem T\xEDtulo-2_496"
+  - first:
+      213: -1329059932859027677
+    second: "Sem T\xEDtulo-2_497"
+  - first:
+      213: 5269770201552822697
+    second: "Sem T\xEDtulo-2_498"
+  - first:
+      213: 6965602303468098350
+    second: "Sem T\xEDtulo-2_499"
+  - first:
+      213: 2230502403373878487
+    second: "Sem T\xEDtulo-2_500"
+  - first:
+      213: 3923697472745175036
+    second: "Sem T\xEDtulo-2_501"
+  - first:
+      213: 5197332500864113973
+    second: "Sem T\xEDtulo-2_502"
+  - first:
+      213: 6732878441276245946
+    second: "Sem T\xEDtulo-2_503"
+  - first:
+      213: 8874946078387100111
+    second: "Sem T\xEDtulo-2_504"
+  - first:
+      213: -8736118893411743572
+    second: "Sem T\xEDtulo-2_505"
+  - first:
+      213: -231161280957581534
+    second: "Sem T\xEDtulo-2_506"
+  - first:
+      213: 743556881629424575
+    second: "Sem T\xEDtulo-2_507"
+  - first:
+      213: -5621813497818640782
+    second: "Sem T\xEDtulo-2_508"
+  - first:
+      213: 8085716398079688436
+    second: "Sem T\xEDtulo-2_509"
+  - first:
+      213: 5379553205930546319
+    second: "Sem T\xEDtulo-2_510"
+  - first:
+      213: 3393793645135065163
+    second: "Sem T\xEDtulo-2_511"
+  - first:
+      213: 3266428385485239220
+    second: "Sem T\xEDtulo-2_512"
+  - first:
+      213: 7825763372942325674
+    second: "Sem T\xEDtulo-2_513"
+  - first:
+      213: -9015860327066576233
+    second: "Sem T\xEDtulo-2_514"
+  - first:
+      213: 3922126693518007843
+    second: "Sem T\xEDtulo-2_515"
+  - first:
+      213: 1170939966468959926
+    second: "Sem T\xEDtulo-2_516"
+  - first:
+      213: -4476244361692578485
+    second: "Sem T\xEDtulo-2_517"
+  - first:
+      213: 700490784595087174
+    second: "Sem T\xEDtulo-2_518"
+  - first:
+      213: -560534157230343640
+    second: "Sem T\xEDtulo-2_519"
+  - first:
+      213: 3549565249132601575
+    second: "Sem T\xEDtulo-2_520"
+  - first:
+      213: -2037623328922843239
+    second: "Sem T\xEDtulo-2_521"
+  - first:
+      213: 1316970549329469542
+    second: "Sem T\xEDtulo-2_522"
+  - first:
+      213: -3071707183300172335
+    second: "Sem T\xEDtulo-2_523"
+  - first:
+      213: 7305652062107613401
+    second: "Sem T\xEDtulo-2_524"
+  - first:
+      213: 1635620535289767740
+    second: "Sem T\xEDtulo-2_525"
+  - first:
+      213: -896167415380656665
+    second: "Sem T\xEDtulo-2_526"
+  - first:
+      213: -6896761627686458851
+    second: "Sem T\xEDtulo-2_527"
+  - first:
+      213: 42014951035565957
+    second: "Sem T\xEDtulo-2_528"
+  - first:
+      213: 7070462772511352203
+    second: "Sem T\xEDtulo-2_529"
+  - first:
+      213: 4607309131446993829
+    second: "Sem T\xEDtulo-2_530"
+  - first:
+      213: -4792828366599700656
+    second: "Sem T\xEDtulo-2_531"
+  - first:
+      213: 5620107189316219923
+    second: "Sem T\xEDtulo-2_532"
+  - first:
+      213: -7100887568673000625
+    second: "Sem T\xEDtulo-2_533"
+  - first:
+      213: 3326153156920074102
+    second: "Sem T\xEDtulo-2_534"
+  - first:
+      213: 1025514993174276742
+    second: "Sem T\xEDtulo-2_535"
+  - first:
+      213: -2046500482963820587
+    second: "Sem T\xEDtulo-2_536"
+  - first:
+      213: -780482652082904106
+    second: "Sem T\xEDtulo-2_537"
+  - first:
+      213: 4733324917118333678
+    second: "Sem T\xEDtulo-2_538"
+  - first:
+      213: 305716263828704522
+    second: "Sem T\xEDtulo-2_539"
+  - first:
+      213: -8102896723626151808
+    second: "Sem T\xEDtulo-2_540"
+  - first:
+      213: -5759748018799142154
+    second: "Sem T\xEDtulo-2_541"
+  - first:
+      213: -1486561485874816949
+    second: "Sem T\xEDtulo-2_542"
+  - first:
+      213: -9130840890418559091
+    second: "Sem T\xEDtulo-2_543"
+  - first:
+      213: -4102388837530683704
+    second: "Sem T\xEDtulo-2_544"
+  - first:
+      213: -3092057942305413221
+    second: "Sem T\xEDtulo-2_545"
+  - first:
+      213: 8865242147669916365
+    second: "Sem T\xEDtulo-2_546"
+  - first:
+      213: 6761969659801901725
+    second: "Sem T\xEDtulo-2_547"
+  - first:
+      213: 6614668638585806004
+    second: "Sem T\xEDtulo-2_548"
+  - first:
+      213: 3899379492970573765
+    second: "Sem T\xEDtulo-2_549"
+  - first:
+      213: -4607849443427907760
+    second: "Sem T\xEDtulo-2_550"
+  - first:
+      213: -7771422900239256018
+    second: "Sem T\xEDtulo-2_551"
+  - first:
+      213: 2811795703916695107
+    second: "Sem T\xEDtulo-2_552"
+  - first:
+      213: -4446218716158296641
+    second: "Sem T\xEDtulo-2_553"
+  - first:
+      213: 5531017581720652704
+    second: "Sem T\xEDtulo-2_554"
+  - first:
+      213: -7207832447839737152
+    second: "Sem T\xEDtulo-2_555"
+  - first:
+      213: 2013940361563938621
+    second: "Sem T\xEDtulo-2_556"
+  - first:
+      213: 5659713495448063423
+    second: "Sem T\xEDtulo-2_557"
+  - first:
+      213: 2705338059545079993
+    second: "Sem T\xEDtulo-2_558"
+  - first:
+      213: 4332702758744016417
+    second: "Sem T\xEDtulo-2_559"
+  - first:
+      213: 6430626921239780463
+    second: "Sem T\xEDtulo-2_560"
+  - first:
+      213: 6244370916112426515
+    second: "Sem T\xEDtulo-2_561"
+  - first:
+      213: -1771813532922701568
+    second: "Sem T\xEDtulo-2_562"
+  - first:
+      213: 3110928541594318472
+    second: "Sem T\xEDtulo-2_563"
+  - first:
+      213: 8039986682044784257
+    second: "Sem T\xEDtulo-2_564"
+  - first:
+      213: -8067148556446662992
+    second: "Sem T\xEDtulo-2_565"
+  - first:
+      213: 3656897246494411705
+    second: "Sem T\xEDtulo-2_566"
+  - first:
+      213: -5112907002302556783
+    second: "Sem T\xEDtulo-2_567"
+  - first:
+      213: -7947123059307296123
+    second: "Sem T\xEDtulo-2_568"
+  - first:
+      213: -2009701479594569830
+    second: "Sem T\xEDtulo-2_569"
+  - first:
+      213: 7326451190745791259
+    second: "Sem T\xEDtulo-2_570"
+  - first:
+      213: -2098352581605474616
+    second: "Sem T\xEDtulo-2_571"
+  - first:
+      213: 5061952973671065439
+    second: "Sem T\xEDtulo-2_572"
+  - first:
+      213: 6621903402630741113
+    second: "Sem T\xEDtulo-2_573"
+  - first:
+      213: 4764768212311597880
+    second: "Sem T\xEDtulo-2_574"
+  - first:
+      213: -9098608913245592635
+    second: "Sem T\xEDtulo-2_575"
+  - first:
+      213: 9213073167909772765
+    second: "Sem T\xEDtulo-2_576"
+  - first:
+      213: 1334124958306484013
+    second: "Sem T\xEDtulo-2_577"
+  - first:
+      213: -6842989588644509920
+    second: "Sem T\xEDtulo-2_578"
+  - first:
+      213: 2178395119651487976
+    second: "Sem T\xEDtulo-2_579"
+  - first:
+      213: 2332265802740805244
+    second: "Sem T\xEDtulo-2_580"
+  - first:
+      213: 2433573527191782842
+    second: "Sem T\xEDtulo-2_581"
+  - first:
+      213: -9218740003969244626
+    second: "Sem T\xEDtulo-2_582"
+  - first:
+      213: -4955809458638997123
+    second: "Sem T\xEDtulo-2_583"
+  - first:
+      213: 211156906914863768
+    second: "Sem T\xEDtulo-2_584"
+  - first:
+      213: -8940946337395138527
+    second: "Sem T\xEDtulo-2_585"
+  - first:
+      213: 364164027517502621
+    second: "Sem T\xEDtulo-2_586"
+  - first:
+      213: -1550343295408630372
+    second: "Sem T\xEDtulo-2_587"
+  - first:
+      213: -8745491429430752092
+    second: "Sem T\xEDtulo-2_588"
+  - first:
+      213: 3990170286033697545
+    second: "Sem T\xEDtulo-2_589"
+  - first:
+      213: -9177089247038345370
+    second: "Sem T\xEDtulo-2_590"
+  - first:
+      213: 3042235507198946107
+    second: "Sem T\xEDtulo-2_591"
+  - first:
+      213: 179872750878309710
+    second: "Sem T\xEDtulo-2_592"
+  - first:
+      213: -7157980889693627768
+    second: "Sem T\xEDtulo-2_593"
+  - first:
+      213: 2115013834916777981
+    second: "Sem T\xEDtulo-2_594"
+  - first:
+      213: 8998536882001945792
+    second: "Sem T\xEDtulo-2_595"
+  - first:
+      213: 6044745564867783541
+    second: "Sem T\xEDtulo-2_596"
+  - first:
+      213: 6943703368020196928
+    second: "Sem T\xEDtulo-2_597"
+  - first:
+      213: -5457025172275270825
+    second: "Sem T\xEDtulo-2_598"
+  - first:
+      213: -8641988236319375724
+    second: "Sem T\xEDtulo-2_599"
+  - first:
+      213: 4724993896830328984
+    second: "Sem T\xEDtulo-2_600"
+  - first:
+      213: 3282677546717565109
+    second: "Sem T\xEDtulo-2_601"
+  - first:
+      213: -559725282262066866
+    second: "Sem T\xEDtulo-2_602"
+  - first:
+      213: -6499225725356341804
+    second: "Sem T\xEDtulo-2_603"
+  - first:
+      213: -2217247410402595348
+    second: "Sem T\xEDtulo-2_604"
+  - first:
+      213: 3000314908510414475
+    second: "Sem T\xEDtulo-2_605"
+  - first:
+      213: -1264821900492557827
+    second: "Sem T\xEDtulo-2_606"
+  - first:
+      213: 1615493184701217266
+    second: "Sem T\xEDtulo-2_607"
+  - first:
+      213: 2866382637686601013
+    second: "Sem T\xEDtulo-2_608"
+  - first:
+      213: 3240038876782542044
+    second: "Sem T\xEDtulo-2_609"
+  - first:
+      213: 7304913973838643507
+    second: "Sem T\xEDtulo-2_610"
+  - first:
+      213: -6216350093314360487
+    second: "Sem T\xEDtulo-2_611"
+  - first:
+      213: 6249444813299827636
+    second: "Sem T\xEDtulo-2_612"
+  - first:
+      213: 6537059175654939858
+    second: "Sem T\xEDtulo-2_613"
+  - first:
+      213: -1936231880845749168
+    second: "Sem T\xEDtulo-2_614"
+  - first:
+      213: 6746960174736129563
+    second: "Sem T\xEDtulo-2_615"
+  - first:
+      213: 3333526577083460889
+    second: "Sem T\xEDtulo-2_616"
+  - first:
+      213: -8026089304171447867
+    second: "Sem T\xEDtulo-2_617"
+  - first:
+      213: 678100084768083575
+    second: "Sem T\xEDtulo-2_618"
+  - first:
+      213: 3750178334930268507
+    second: "Sem T\xEDtulo-2_619"
+  - first:
+      213: 1098911560055853615
+    second: "Sem T\xEDtulo-2_620"
+  - first:
+      213: -6669391288060318583
+    second: "Sem T\xEDtulo-2_621"
+  - first:
+      213: 50871791163449066
+    second: "Sem T\xEDtulo-2_622"
+  - first:
+      213: -7349537768199800214
+    second: "Sem T\xEDtulo-2_623"
+  - first:
+      213: -7207912483412631046
+    second: "Sem T\xEDtulo-2_624"
+  - first:
+      213: -6137617610542215217
+    second: "Sem T\xEDtulo-2_625"
+  - first:
+      213: -1891636805455031370
+    second: "Sem T\xEDtulo-2_626"
+  - first:
+      213: 3226451348444424253
+    second: "Sem T\xEDtulo-2_627"
+  - first:
+      213: 6564056349138879591
+    second: "Sem T\xEDtulo-2_628"
+  - first:
+      213: -3188388691763808459
+    second: "Sem T\xEDtulo-2_629"
+  - first:
+      213: -1238003619728259622
+    second: "Sem T\xEDtulo-2_630"
+  - first:
+      213: -8673247126970812567
+    second: "Sem T\xEDtulo-2_631"
+  - first:
+      213: 7651956640306848375
+    second: "Sem T\xEDtulo-2_632"
+  - first:
+      213: 3825310725255339343
+    second: "Sem T\xEDtulo-2_633"
+  - first:
+      213: 7750782743974026614
+    second: "Sem T\xEDtulo-2_634"
+  - first:
+      213: -8066572321207813811
+    second: "Sem T\xEDtulo-2_635"
+  - first:
+      213: 4762228680758928607
+    second: "Sem T\xEDtulo-2_636"
+  - first:
+      213: 8243047311490843766
+    second: "Sem T\xEDtulo-2_637"
+  - first:
+      213: -5754300066243416502
+    second: "Sem T\xEDtulo-2_638"
+  - first:
+      213: -4070826935924833401
+    second: "Sem T\xEDtulo-2_639"
+  - first:
+      213: 7997441656369148935
+    second: "Sem T\xEDtulo-2_640"
+  - first:
+      213: -8369830130529834109
+    second: "Sem T\xEDtulo-2_641"
+  - first:
+      213: 7586521654240537958
+    second: "Sem T\xEDtulo-2_642"
+  - first:
+      213: -1039870617997795422
+    second: "Sem T\xEDtulo-2_643"
+  - first:
+      213: 2231652225054310239
+    second: "Sem T\xEDtulo-2_644"
+  - first:
+      213: -4632747562747463998
+    second: "Sem T\xEDtulo-2_645"
+  - first:
+      213: -2258730255226772926
+    second: "Sem T\xEDtulo-2_646"
+  - first:
+      213: 5694409833171048044
+    second: "Sem T\xEDtulo-2_647"
+  - first:
+      213: 4638021352663812761
+    second: "Sem T\xEDtulo-2_648"
+  - first:
+      213: -577030955307886127
+    second: "Sem T\xEDtulo-2_649"
+  - first:
+      213: -3683119038331702381
+    second: "Sem T\xEDtulo-2_650"
+  - first:
+      213: -4289238284126396916
+    second: "Sem T\xEDtulo-2_651"
+  - first:
+      213: 195620581472678711
+    second: "Sem T\xEDtulo-2_652"
+  - first:
+      213: 6128201460717828065
+    second: "Sem T\xEDtulo-2_653"
+  - first:
+      213: 8829466551443418400
+    second: "Sem T\xEDtulo-2_654"
+  - first:
+      213: 7193436963408109469
+    second: "Sem T\xEDtulo-2_655"
+  - first:
+      213: -1989805586427493576
+    second: "Sem T\xEDtulo-2_656"
+  - first:
+      213: -7322604953954619449
+    second: "Sem T\xEDtulo-2_657"
+  - first:
+      213: -64400124363089135
+    second: "Sem T\xEDtulo-2_658"
+  - first:
+      213: -8615884515853613302
+    second: "Sem T\xEDtulo-2_659"
+  - first:
+      213: 876728405635483524
+    second: "Sem T\xEDtulo-2_660"
+  - first:
+      213: 2799115733388073462
+    second: "Sem T\xEDtulo-2_661"
+  - first:
+      213: 4753523924875345551
+    second: "Sem T\xEDtulo-2_662"
+  - first:
+      213: -161251546120369777
+    second: "Sem T\xEDtulo-2_663"
+  - first:
+      213: 1878324696126264517
+    second: "Sem T\xEDtulo-2_664"
+  - first:
+      213: -9080793635643055744
+    second: "Sem T\xEDtulo-2_665"
+  - first:
+      213: -3225039465558053209
+    second: "Sem T\xEDtulo-2_666"
+  - first:
+      213: 3952929713874413809
+    second: "Sem T\xEDtulo-2_667"
+  - first:
+      213: -4148815622799639518
+    second: "Sem T\xEDtulo-2_668"
+  - first:
+      213: 403280291649505412
+    second: "Sem T\xEDtulo-2_669"
+  - first:
+      213: 68474571780280773
+    second: "Sem T\xEDtulo-2_670"
+  - first:
+      213: -414460851271143677
+    second: "Sem T\xEDtulo-2_671"
+  - first:
+      213: 8324172900239263515
+    second: "Sem T\xEDtulo-2_672"
+  - first:
+      213: -2704922487761476862
+    second: "Sem T\xEDtulo-2_673"
+  - first:
+      213: 6445519674091750080
+    second: "Sem T\xEDtulo-2_674"
+  - first:
+      213: 9124857215273101096
+    second: "Sem T\xEDtulo-2_675"
+  - first:
+      213: 6015795333889717187
+    second: "Sem T\xEDtulo-2_676"
+  - first:
+      213: -6100232116572756026
+    second: "Sem T\xEDtulo-2_677"
+  - first:
+      213: -671525705816922653
+    second: "Sem T\xEDtulo-2_678"
+  - first:
+      213: -43923941604788990
+    second: "Sem T\xEDtulo-2_679"
+  - first:
+      213: -8758816343111655593
+    second: "Sem T\xEDtulo-2_680"
+  - first:
+      213: 6360188025686043094
+    second: "Sem T\xEDtulo-2_681"
+  - first:
+      213: 4737933311203720874
+    second: "Sem T\xEDtulo-2_682"
+  - first:
+      213: 3164921612318750184
+    second: "Sem T\xEDtulo-2_683"
+  - first:
+      213: 6248513557928286588
+    second: "Sem T\xEDtulo-2_684"
+  - first:
+      213: -2984661992893383742
+    second: "Sem T\xEDtulo-2_685"
+  - first:
+      213: 122305963379890981
+    second: "Sem T\xEDtulo-2_686"
+  - first:
+      213: 3216156474920068343
+    second: "Sem T\xEDtulo-2_687"
+  - first:
+      213: 7669653516736020868
+    second: "Sem T\xEDtulo-2_688"
+  - first:
+      213: 7993548844919041575
+    second: "Sem T\xEDtulo-2_689"
+  - first:
+      213: 346805193246781852
+    second: "Sem T\xEDtulo-2_690"
+  - first:
+      213: -3596844600813256975
+    second: "Sem T\xEDtulo-2_691"
+  - first:
+      213: 7683076742657131303
+    second: "Sem T\xEDtulo-2_692"
+  - first:
+      213: -1355654122149527316
+    second: "Sem T\xEDtulo-2_693"
+  - first:
+      213: -1598418276579453268
+    second: "Sem T\xEDtulo-2_694"
+  - first:
+      213: 2746617236500186715
+    second: "Sem T\xEDtulo-2_695"
+  - first:
+      213: 8996594557702734500
+    second: "Sem T\xEDtulo-2_696"
+  - first:
+      213: 2946381089360229725
+    second: "Sem T\xEDtulo-2_697"
+  - first:
+      213: -3170449152927346573
+    second: "Sem T\xEDtulo-2_698"
+  - first:
+      213: 7555026951813012000
+    second: "Sem T\xEDtulo-2_699"
+  - first:
+      213: -5654807253248720652
+    second: "Sem T\xEDtulo-2_700"
+  - first:
+      213: 6434070196999056350
+    second: "Sem T\xEDtulo-2_701"
+  - first:
+      213: 1342437922548128801
+    second: "Sem T\xEDtulo-2_702"
+  - first:
+      213: -2645441325811498904
+    second: "Sem T\xEDtulo-2_703"
+  - first:
+      213: -5482687946902188225
+    second: "Sem T\xEDtulo-2_704"
+  - first:
+      213: -5004591399255081203
+    second: "Sem T\xEDtulo-2_705"
+  - first:
+      213: 6612761231237906644
+    second: "Sem T\xEDtulo-2_706"
+  - first:
+      213: 6850110534091533549
+    second: "Sem T\xEDtulo-2_707"
+  - first:
+      213: -8632582363873680094
+    second: "Sem T\xEDtulo-2_708"
+  - first:
+      213: 1581261728256236264
+    second: "Sem T\xEDtulo-2_709"
+  - first:
+      213: 2638772920281874439
+    second: "Sem T\xEDtulo-2_710"
+  - first:
+      213: -2998763879938731992
+    second: "Sem T\xEDtulo-2_711"
+  - first:
+      213: -5454323978765225455
+    second: "Sem T\xEDtulo-2_712"
+  - first:
+      213: -4482376372757132920
+    second: "Sem T\xEDtulo-2_713"
+  - first:
+      213: 4434444569833680894
+    second: "Sem T\xEDtulo-2_714"
+  - first:
+      213: -2278334307274379000
+    second: "Sem T\xEDtulo-2_715"
+  - first:
+      213: 3636663609170989273
+    second: "Sem T\xEDtulo-2_716"
+  - first:
+      213: -2838190906079164915
+    second: "Sem T\xEDtulo-2_717"
+  - first:
+      213: -8011026296280089801
+    second: "Sem T\xEDtulo-2_718"
+  - first:
+      213: -3987941468223177173
+    second: "Sem T\xEDtulo-2_719"
+  - first:
+      213: 2601518087001955856
+    second: "Sem T\xEDtulo-2_720"
+  - first:
+      213: 4889369180487143239
+    second: "Sem T\xEDtulo-2_721"
+  - first:
+      213: -668624179381276182
+    second: "Sem T\xEDtulo-2_722"
+  - first:
+      213: -1334161903488517722
+    second: "Sem T\xEDtulo-2_723"
+  - first:
+      213: 1145373917088894594
+    second: "Sem T\xEDtulo-2_724"
+  - first:
+      213: -1596872700024583910
+    second: "Sem T\xEDtulo-2_725"
+  - first:
+      213: -4756438765835705595
+    second: "Sem T\xEDtulo-2_726"
+  - first:
+      213: -436025322089520651
+    second: "Sem T\xEDtulo-2_727"
+  - first:
+      213: -4311601640724998583
+    second: "Sem T\xEDtulo-2_728"
+  - first:
+      213: 4765703056139797344
+    second: "Sem T\xEDtulo-2_729"
+  - first:
+      213: 2252981965522472236
+    second: "Sem T\xEDtulo-2_730"
+  - first:
+      213: -9123402614284178126
+    second: "Sem T\xEDtulo-2_731"
+  - first:
+      213: 4837009994651822547
+    second: "Sem T\xEDtulo-2_732"
+  - first:
+      213: 4254862443991190356
+    second: "Sem T\xEDtulo-2_733"
+  - first:
+      213: 6850351095924583271
+    second: "Sem T\xEDtulo-2_734"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-2_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0632f90d5996fde43b67e5e3e2fb3eb8
+      internalID: -1839767820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-2_1"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2400
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e987288f983374c895bbf707ced2dc
+      internalID: -2107963477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-2_2"
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2400
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b746a873be78040bec4fce318821cc
+      internalID: 122816225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-2_3"
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2400
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6282c228721c1419f3ff44b3832295
+      internalID: 177231744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-2_4"
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2400
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed2e0ccffa78b743a78636ebc631781
+      internalID: -1685133899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-2_5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3732391aba7a74c43868da20f25b8305
+      internalID: -1937176148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-2_6"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1800
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799c49ee9d7dd1d41add96a210a563fb
+      internalID: 1301224558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-2_7"
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1800
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da680b60d33971040a596f7edbc98099
+      internalID: 99409609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-2_8"
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1800
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2cbd64516a84e49af5592e9d3c8dd8
+      internalID: -18004663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-2_9"
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1800
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d06ffd2f91f8f64aa82ab6fd50f3925
+      internalID: 203966917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-2_10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094e52bf4844503478275b3b136e29f1
+      internalID: -51858730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b5ea19c78a9fc974e81bb3f5d3b0de0e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Sem T\xEDtulo-2_0": -1839767820
+      "Sem T\xEDtulo-2_1": -2107963477
+      "Sem T\xEDtulo-2_10": -51858730
+      "Sem T\xEDtulo-2_2": 122816225
+      "Sem T\xEDtulo-2_3": 177231744
+      "Sem T\xEDtulo-2_4": -1685133899
+      "Sem T\xEDtulo-2_5": -1937176148
+      "Sem T\xEDtulo-2_6": 1301224558
+      "Sem T\xEDtulo-2_7": 99409609
+      "Sem T\xEDtulo-2_8": -18004663
+      "Sem T\xEDtulo-2_9": 203966917
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

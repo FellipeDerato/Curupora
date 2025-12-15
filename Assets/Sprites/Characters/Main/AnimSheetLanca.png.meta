@@ -1,0 +1,501 @@
+fileFormatVersion: 2
+guid: 33a4e93b8d369b64fbaf4185ed71ee0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7319959476410085606
+    second: AnimSheetLanca_0
+  - first:
+      213: 4780980994015941307
+    second: AnimSheetLanca_1
+  - first:
+      213: 3334572477297162003
+    second: AnimSheetLanca_2
+  - first:
+      213: 3480640719680949985
+    second: AnimSheetLanca_3
+  - first:
+      213: 532741666111618895
+    second: AnimSheetLanca_4
+  - first:
+      213: -7350088286534272480
+    second: AnimSheetLanca_5
+  - first:
+      213: 8131148418603184639
+    second: AnimSheetLanca_6
+  - first:
+      213: -5086887482711317204
+    second: AnimSheetLanca_7
+  - first:
+      213: -1446237399037988058
+    second: AnimSheetLanca_8
+  - first:
+      213: -5347665686933571061
+    second: AnimSheetLanca_9
+  - first:
+      213: 8970151610156214277
+    second: AnimSheetLanca_10
+  - first:
+      213: 2491933259755611770
+    second: AnimSheetLanca_11
+  - first:
+      213: 1350615448298130306
+    second: AnimSheetLanca_12
+  - first:
+      213: 2456327623612877649
+    second: AnimSheetLanca_13
+  - first:
+      213: -2460673214697644799
+    second: AnimSheetLanca_14
+  - first:
+      213: -1035515724322783706
+    second: AnimSheetLanca_15
+  - first:
+      213: 2813141394090106819
+    second: AnimSheetLanca_16
+  - first:
+      213: 6577326640521541063
+    second: AnimSheetLanca_17
+  - first:
+      213: 4862439930861585995
+    second: AnimSheetLanca_18
+  - first:
+      213: -3343762579017643298
+    second: AnimSheetLanca_19
+  - first:
+      213: 1728640559623479684
+    second: AnimSheetLanca_20
+  - first:
+      213: 3618892906607440633
+    second: AnimSheetLanca_21
+  - first:
+      213: 8054698155455436787
+    second: AnimSheetLanca_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AnimSheetLanca_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 250
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6b64ef97635f34a87f33a68af7a9b4
+      internalID: -528804229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimSheetLanca_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 300
+        width: 250
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d164f666005354fac6db66bc4bb649
+      internalID: 1206696567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimSheetLanca_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 250
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba670798fa4f814cb277571881e340c
+      internalID: -1098482721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimSheetLanca_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 300
+        width: 250
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f779a74740ee6204296124f38dd8f99a
+      internalID: -1100238179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimSheetLanca_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 250
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc3dd68474b87541b04bf0739c2c1ad
+      internalID: -1735372762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimSheetLanca_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 150
+        width: 250
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbe400f4dbdcb842ba113f1fb7f1b73
+      internalID: 339035567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimSheetLanca_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 150
+        width: 250
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811f8fde134336145b42b6cdf819f787
+      internalID: 742193103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimSheetLanca_7
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 150
+        width: 250
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a36f0836c9dfa447a9b311f9342ed85
+      internalID: -1861138661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimSheetLanca_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b0a378e19f455419f2e381dbf7256e
+      internalID: -2097646526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimSheetLanca_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f4706f7482b0247bbaa25631340457
+      internalID: 99549416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimSheetLanca_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 250
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba74190d51cfe3478cc39024976ffde
+      internalID: 1193953579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimSheetLanca_11
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 250
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f7170062e3ab3439a01d7e8ccb7a00
+      internalID: -2057442245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: edb2cc3d2e1a9874cb3fac92ff44b3db
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AnimSheetLanca_0: -528804229
+      AnimSheetLanca_1: 1206696567
+      AnimSheetLanca_10: 1193953579
+      AnimSheetLanca_11: -2057442245
+      AnimSheetLanca_2: -1098482721
+      AnimSheetLanca_3: -1100238179
+      AnimSheetLanca_4: -1735372762
+      AnimSheetLanca_5: 339035567
+      AnimSheetLanca_6: 742193103
+      AnimSheetLanca_7: -1861138661
+      AnimSheetLanca_8: -2097646526
+      AnimSheetLanca_9: 99549416
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

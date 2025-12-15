@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a22e3d79f77dad548972b4aac033da70, type: 3}
+  m_Name: Input_Names
+  m_EditorClassIdentifier: 
+  inputName_LeftAnalogX: P1_LeftAnalog_Horizontal
+  inputName_LeftAnalogY: P1_LeftAnalog_Vertical
+  leftAnalogGameEvent: {fileID: 11400000, guid: 9cf7548f17da6d848ba92ae93a199b9b, type: 2}
+  inputName_RightAnalogX: P1_RightAnalog_Horizontal
+  inputName_RightAnalogY: P1_RightAnalog_Vertical
+  rightAnalogGameEvent: {fileID: 11400000, guid: d9b4178408c4e3b40b020c38781ad34c, type: 2}
+  inputName_Jump: Jump
+  jumpPressed: {fileID: 11400000, guid: 74012ae3f5625b94ba26522fa05dd990, type: 2}
+  inputName_Attack: Fire1
+  attackPressed: {fileID: 11400000, guid: d43e3d73b1e4053418fa29760a97a1df, type: 2}
+  inputName_Magic: Fire2
+  magicPressed: {fileID: 0}
+  inputName_Interact: Fire3
+  interactPressed: {fileID: 0}

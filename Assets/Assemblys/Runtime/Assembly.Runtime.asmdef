@@ -1,0 +1,17 @@
+{
+    "name": "Assembly.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e5e77d6fe45653e489d45e363891a5d7",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

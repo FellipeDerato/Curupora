@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e57fa52d43cdf447a09a06ec6e07d04, type: 3}
+  m_Name: Parameters
+  m_EditorClassIdentifier: 
+  health: 5
+  maxHealth: 5
+  PersonagemSelecionado: 0
+  fallClamp: -40
+  maxFallSpeed: 120
+  fallGravityMultiplier: 9.8
+  groundBoxSize: {x: 0.68, y: 0.2}
+  groundBoxCenter: {x: 0, y: -1}
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 64
+  acceleration: 90
+  moveClamp: 8
+  desacelerar: 90
+  apiceHorizontalBonus: 2
+  smallThreshold: 0.01
+  jumpHeight: 8
+  jumpApexThreshold: 10
+  coyoteTimeThreshold: 0.1
+  jumpBuffer: 0.1
+  jumpEndEarlyGravityModifier: 50
+  basicAttackCooldown: 0.4
+  basicAttackDuration: 0.2
+  basicAttackDamage: 1
+  SelfKnockback_weak: 1
+  SelfKnockback_strong: 8
+  DealtKnockback: 4
+  basicAttackBoxSize: {x: 2.5, y: 1.5}
+  basicAttackBoxOffsetX: -0.4
+  damagebleLayer:
+    serializedVersion: 2
+    m_Bits: 256
+  invincibilityDuration: 1
+  damageKnockback: 8
